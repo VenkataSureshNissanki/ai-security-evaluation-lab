@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.sqlite
+*.sqlite-journal
+.venv/
+.env
+coverage.xml
+reports/*.xml
+reports/*.html
